@@ -15,6 +15,8 @@ questions: ```[Question]```
 
 scores: ```[score]```
 
+scoreFormula: ```String``` (optional, default = "grandAverage")
+
 ### Questions
 
 text: ```String```
