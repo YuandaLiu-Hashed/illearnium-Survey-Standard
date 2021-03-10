@@ -7,7 +7,7 @@ default_style: ```String```
 
 default_scaleLabel_zero: ```String``` (optional, default = ```"disagree"```)
 
-default_scaleLabel_max:  ```String``` (optional, default = ```"aggree"```)
+default_scaleLabel_max:  ```String``` (optional, default = ```"agree"```)
 
 default_defaultScore: ```Double``` (optional, default = ```0```)
 
