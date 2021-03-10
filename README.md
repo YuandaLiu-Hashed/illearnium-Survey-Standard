@@ -29,7 +29,7 @@ scaleLabel_zero: ```String``` (optional, default = ```"_DEFAULT"```, reference t
 
 scaleLabel_max: ```String``` (optional, default = ```"_DEFAULT"```, reference to **default_scaleLabel_max**)
 
-defaultScore: ```Double``` (optional, default = ```"_DEFAULT"```)
+defaultScore: ```Double``` (optional, default = ```-1```, same as ```_DEFAULT```, reference to default_defaultScore)
 
 ### Score
 
